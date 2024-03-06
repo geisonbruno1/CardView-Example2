@@ -1,5 +1,4 @@
 ![Captura de tela 2024-03-05 125351](https://github.com/geisonbruno1/CardView-Example2/assets/110945121/68db092f-993f-4c56-8511-0ef5f3079097)
-
 ![Captura de tela 2024-03-05 124604](https://github.com/geisonbruno1/CardView-Example2/assets/110945121/b2f8c2f3-b195-46f0-891f-e1cf3cb32565)
 
 <!-- <h1><a href"">Example Project Card V</a></h1> -->
